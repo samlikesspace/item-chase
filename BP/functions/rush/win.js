@@ -1,1 +1,1 @@
-
+gamemode specator @a
