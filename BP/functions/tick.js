@@ -1,6 +1,8 @@
 {
   "values": [
     "rush/check",
-    "rush/scores"
+    "rush/scores",
+    "rush/display",
+    "rush/end"
   ]
 }
