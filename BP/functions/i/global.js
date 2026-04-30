@@ -1,4 +1,5 @@
 gamerule showcoordinates false
+scoreboard players remove s chase 1
 
 execute if score stage rushDB matches 1 if score item rushDB matches 1 run titleraw @a title {"rawtext":[{"text":"§lAPPLE"}]}
 execute if score stage rushDB matches 1 if score item rushDB matches 2 run titleraw @a title {"rawtext":[{"text":"§lDANDILION"}]}
